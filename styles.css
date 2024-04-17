@@ -1,9 +1,26 @@
 body {
-    background-color: #333;
+    background-color: #d8cea3;
     font-family: Arial, Garamond, "Lucida Console";
-    color:rgba(227, 228, 176, 0.767);
+    color:rgba(168, 49, 13, 0.767);
 }
 
 h1 {
     font-weight: 500;
+    text-align: center;
+    margin: 30px 0;
+}
+
+
+.link-list {
+    text-align: center;
+}
+
+.link-list li {
+    list-style: none;
+    display: inline;
+    font-size: 1.2em;
+    background-color: rgba(209, 141, 119, 0.767);
+    color: #d8cea3;
+    padding: 10px;
+    margin: 10px;
 }
